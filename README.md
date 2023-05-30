@@ -1,2 +1,5 @@
 # automation-script-screen-shot
-run command npm init
+  This above code take screen shot of given url after specfic time period which you will define.
+#run command 
+  npm init
+  npm install puppeteer
