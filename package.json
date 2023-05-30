@@ -1,0 +1,14 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "screenShot automation",
+  "main": "screenShot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zohaibAnwar",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.4.0"
+  }
+}
